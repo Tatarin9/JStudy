@@ -10,4 +10,9 @@ parCreate.innerHTML = arr3.sort();
 
 console.log(arr3.sort());
 
+// arr3 = arr3.filter((item, index) => {
+//     return (arr3.indexOf(item) == index)
+// })
+// console.log(arr3);
+
 
