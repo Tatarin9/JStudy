@@ -9,3 +9,5 @@ document.body.appendChild(parCreate);
 parCreate.innerHTML = arr3.sort();
 
 console.log(arr3.sort());
+
+
